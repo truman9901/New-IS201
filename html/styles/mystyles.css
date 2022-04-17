@@ -1,0 +1,31 @@
+.main    {
+    color:yellow;
+    }
+
+.bolded {
+    font-weight: bold;
+}
+h1 {
+    color:yellow;
+}
+
+.italic {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: smaller;
+}
+.right {
+    display: block;
+    position: absolute; right: 0%;
+}
+.left {
+    display: block;
+    position: absolute; left: 0%;
+}
+.center {
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width:max-content
+
+}
